@@ -1,10 +1,20 @@
 # ForwardOS
 An useless Magisk module for XTC Devices
+# Notice
+**only support Android 8.1 (27)**
 # Features
 - an useless manager
 - brick rescue
 > I thought this is probably useless
 - prop safe(set some important props to current values)
+> it's available on these devices below:
+> - Z6_DFB(I20)
+> - Z7(I25)
+> - Z7A(I25C)
+> - Z7S(I25D)
+> - Z8(I32)
+> - Z8A(ND07)
+> - Z9(ND01)
 - LineageOS Recorder
 - fix emoji
 - edited package installer
