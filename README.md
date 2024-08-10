@@ -6,7 +6,7 @@ An useless Magisk module for XTC Devices
 - an useless manager
 - brick rescue
 > I thought this is probably useless
-- prop safe(set some important props to current values)
+- prop safe(set some important props to corrent values)
 > it's available on these devices below:
 > - Z6_DFB(I20)
 > - Z7(I25)
