@@ -4,6 +4,8 @@ An useless Magisk module for XTC Devices
 **only support Android 8.1 (27)**
 # Features
 - an useless manager
+> it's an Xposed module, activate it after install module.<br>
+> include some useless tools
 - brick rescue
 > I thought this is probably useless
 - prop safe(set some important props to corrent values)
@@ -23,13 +25,13 @@ An useless Magisk module for XTC Devices
 - fix screen rotation
 > it's general, maybe any devices can install it such as Z8.
 >> ### Uploader
->> it has an uploader that written in Java, but I'd like to fuck javac because it's too stupid
->> if the module doesn't have the correct framework-res.apk, it'll uploader yours to the server
->> and
+>> it has an uploader that written in Java, but I'd like to fuck javac because it's too stupid.<br>
+>> if the module doesn't have the correct framework-res.apk, it'll uploader yours to the server.<br>
+>> and<br>
 >> wait the module to update(damn
 - HttpCanary
 - custom shell command
-> of course it's developing
->> maybe published in version 114514.0 because I do bad in C++
+> of course it's **developing**<br>
+> maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java* and *Kotlin* and soon on
 # Download
 There's nothing yet
