@@ -32,6 +32,8 @@ An useless Magisk module for XTC Devices
 - HttpCanary
 - custom shell command
 > of course it's **developing**<br>
-> maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java* and *Kotlin* and soon on
+> maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java* and *Kotlin* and etc.
 # Download
 There's nothing yet
+you can have a look at this page: 952662.xyz<br>
+this is my github page, but it's untouchable now
