@@ -22,6 +22,7 @@ An useless Magisk module for XTC Devices
 - edited package installer
 - Z10 applications
 - Z10 themes
+> shouldn't install it on the device that the launcher version is low
 - fix screen rotation
 > it's general, maybe any devices can install it such as Z8.
 >> ### Uploader
@@ -35,5 +36,5 @@ An useless Magisk module for XTC Devices
 > maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java* and *Kotlin* and etc.
 # Download
 There's nothing yet
-you can have a look at this page: 952662.xyz<br>
+you can have a look at this page: *952662.xyz*<br>
 this is my github page, but it's untouchable now
