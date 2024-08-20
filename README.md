@@ -76,10 +76,6 @@ view in other languages:<br>
 > of course it's **developing**<br>
 > maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java* and *Kotlin* and etc.
 # Download
-There's nothing yet<br>
-you can have a look at this page: [952662.xyz](https://952662.xyz)<br>
-this is my github pagea* and *Kotlin* and etc.
-# Download
 There's nothing yet
-you can have a look at this page: [952662.xyz](952662.xyz)<br>
+you can have a look at this page: [952662.xyz](https://952662.xyz)<br>
 this is my github page, but it's unreachable now(I didn't write anything)
