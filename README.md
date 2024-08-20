@@ -26,15 +26,15 @@ An useless Magisk module for XTC Devices
 - fix screen rotation
 > it's general, maybe any devices can install it such as Z8.
 >> ### Uploader
->> it has an uploader that written in Java, but I'd like to fuck javac because it's too stupid.<br>
+>> it has an uploader that written in Java, but I'd like to fuck `javac` because it's too stupid.<br>
 >> if the module doesn't have the correct framework-res.apk, it'll uploader yours to the server.<br>
 >> and<br>
 >> wait the module to update(damn
-- HttpCanary
+- HttpCanary **(replace to Reqable now)**
 - custom shell command
 > of course it's **developing**<br>
 > maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java* and *Kotlin* and etc.
 # Download
 There's nothing yet
-you can have a look at this page: *952662.xyz*<br>
-this is my github page, but it's untouchable now
+you can have a look at this page: [952662.xyz](952662.xyz)<br>
+this is my github page, but it's unreachable now
