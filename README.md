@@ -68,7 +68,7 @@ view in other languages:<br>
 > it's general, maybe any devices can install it such as Z8.
 >> ### Uploader
 >> it has an uploader that written in Java, but I'd like to fuck `javac` because it's too stupid.<br>
->> if the module doesn't have the correct framework-res.apk, it'll uploader yours to the server.<br>
+>> if the module doesn't have the correct framework-res.apk, it'll upload yours to the server.<br>
 >> and<br>
 >> wait the module to update(damn
 - HttpCanary **(replace to Reqable now)**
@@ -76,10 +76,10 @@ view in other languages:<br>
 > of course it's **developing**<br>
 > maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java* and *Kotlin* and etc.
 # Download
-There's nothing yet
+There's nothing yet<br>
 you can have a look at this page: [952662.xyz](952662.xyz)<br>
 this is my github pagea* and *Kotlin* and etc.
 # Download
 There's nothing yet
 you can have a look at this page: [952662.xyz](952662.xyz)<br>
-this is my github page, but it's unreachable now
+this is my github page, but it's unreachable now(I didn't write anything)
