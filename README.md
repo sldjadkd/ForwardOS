@@ -33,7 +33,8 @@ view in other languages:<br>
 >> if the module doesn't have the correct framework-res.apk, it'll uploader yours to the server.<br>
 >> and<br>
 >> wait the module to update(damn
-- HttpCanary **(replace to Reqable now)**
+- [HttpCanary](https://github.com/MegatronKing/HttpCanary) **(replace to [Reqable](https://play.google.com/store/apps/details/Reqable_API_Testing_Capture?id=com.reqable.android&hl=en_US) now)**
+- [Xposed Edge Pro](https://github.com/jozein/Xposed-edge-translation)
 - custom shell command
 > of course it's **developing**<br>
 > maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java
