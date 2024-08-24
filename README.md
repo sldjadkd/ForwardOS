@@ -35,6 +35,7 @@ view in other languages:<br>
 >> wait the module to update(damn
 - [HttpCanary](https://github.com/MegatronKing/HttpCanary) **(replace to [Reqable](https://reqable.com)([Google Play](https://play.google.com/store/apps/details/Reqable_API_Testing_Capture?id=com.reqable.android&hl=en_US)) now)**
 - [Xposed Edge Pro](https://github.com/jozein/Xposed-edge-translation)([Google Play](https://play.google.com/store/apps/details/Xposed_edge_pro?id=com.jozein.xedgepro&hl=en_US))
+- [Gboard (Wear OS)](https://www.apkmirror.com/apk/google-inc/gboard-the-google-keyboard-android-wear/)
 - custom shell command
 > of course it's **developing**<br>
 > maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java
