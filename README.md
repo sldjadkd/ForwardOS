@@ -20,7 +20,7 @@ view in other languages:<br>
 > - Z8(I32)
 > - Z8A(ND07)
 > - Z9(ND01)
-- LineageOS Recorder
+- [LineageOS Recorder](https://github.com/BioniCosmos/LOS_Recorder)
 - fix emoji
 - edited package installer
 - Z10 applications
@@ -33,8 +33,8 @@ view in other languages:<br>
 >> if the module doesn't have the correct framework-res.apk, it'll uploader yours to the server.<br>
 >> and<br>
 >> wait the module to update(damn
-- [HttpCanary](https://github.com/MegatronKing/HttpCanary) **(replace to [Reqable](https://play.google.com/store/apps/details/Reqable_API_Testing_Capture?id=com.reqable.android&hl=en_US) now)**
-- [Xposed Edge Pro](https://github.com/jozein/Xposed-edge-translation)
+- [HttpCanary](https://github.com/MegatronKing/HttpCanary) **(replace to [Reqable](https://reqable.com)([Google Play](https://play.google.com/store/apps/details/Reqable_API_Testing_Capture?id=com.reqable.android&hl=en_US)) now)**
+- [Xposed Edge Pro](https://github.com/jozein/Xposed-edge-translation)([Google Play](https://play.google.com/store/apps/details/Xposed_edge_pro?id=com.jozein.xedgepro&hl=en_US))
 - custom shell command
 > of course it's **developing**<br>
 > maybe published in *version 114514.0* because I **do very bad** in *C++*, also *C* and *Java
