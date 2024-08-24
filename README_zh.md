@@ -20,7 +20,7 @@
 > - Z8(I32)
 > - Z8A(ND07)
 > - Z9(ND01)
-- LineageOS 录制器
+- [LineageOS 录制器](https://github.com/BioniCosmos/LOS_Recorder)
 - emoji修复
 - 爆改的软件包安装程序
 - Z10应用
@@ -33,7 +33,8 @@
 >> 没有合适的framework-res.apk就上传你的<br>
 >> 然后<br>
 >> 等待模块更新(不是哥们这么玩是吧
-- HttpCanary **(现在替换成了Reqable)**
+- [HttpCanary](https://github.com/MegatronKing/HttpCanary) **(现在替换成了[Reqable](https://reqable.com)([Google Play](https://play.google.com/store/apps/details?id=com.reqable.android&hl=en_US)))**
+- [Xposed Edge Pro](https://github.com/jozein/Xposed-edge-translation)([Google Play](https://play.google.com/store/apps/details/Xposed_edge_pro?id=com.jozein.xedgepro&hl=en_US))
 - 自定义shell命令
 > 当然还在**开发**<br>
 > 也许在 *版本 114514.0* 发布，因为，**我C++，C，Kotlin，Java等⚡️编程语言⚡️都他妈的很烂**
